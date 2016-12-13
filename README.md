@@ -24,3 +24,5 @@ Some helpful papers on DEM inversion/interpretation
 2. Choose region/time to evaluate DEM at
 3. Extract intensities for various lines
 4. Apply inversion method
+5. Calculate observables, e.g. hot and cool slopes *a* and *b*
+6. Repeat for many sets of parameters

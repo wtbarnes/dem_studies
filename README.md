@@ -13,3 +13,14 @@ These various methods include, but are not limited to,
 
 ## Helpful DEM Papers
 Some helpful papers on DEM inversion/interpretation
+
+* [Aschwanden et al. (2015)](https://ui.adsabs.harvard.edu/#abs/2015SoPh..290.2733A/abstract) -- benchmarks of various methods
+* [Landi et al. (2012)](https://ui.adsabs.harvard.edu/#abs/2012A&A...538A.111L/abstract) -- DEM reconstruction summary
+
+## Roadmap
+
+0. Choose heating parameters and AR
+1. Model loops and emission for the needed EIS channels
+2. Choose region/time to evaluate DEM at
+3. Extract intensities for various lines
+4. Apply inversion method
